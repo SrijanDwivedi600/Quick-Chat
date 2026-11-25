@@ -1,6 +1,3 @@
-# Quick-Chat 
-
-1
 # QuickChat
 
 A real-time chat application built with the MERN stack. Users can sign up, log in, manage their profile and chat instantly with other registered users, with live online status powered by Socket.IO.
